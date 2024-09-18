@@ -79,7 +79,7 @@
     },
     "destinos_quiz": [
       {
-        "url": "https://www.genialcredito.com/recomendado-pagbank/?utm_source=google-ads",
+        "url": "https://extraduda.com/cartao-de-credito-mercado-pago/?utm_source=google-ads",
         "pontos": 1
       }
     ],
@@ -108,10 +108,10 @@
     },
     "scripts_append_quiz": "<!-- Google tag (gtag.js) -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-11211823515\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-11211823515');\r\n</script>",
     "scripts_append_quiz_antes_redirect": "<!-- Event snippet for [gc] lead conversion page -->\r\n<script>\r\n  gtag('event', 'conversion', {'send_to': 'AW-11211823515/G2b_CIKxiqkYEJuzm-Ip'});\r\n</script>",
-    "cnpj_quiz": "42.921.663/0001-99",
-    "nome_cnpj_quiz": "JN Content",
+    "cnpj_quiz": "38.269.958/0001-55",
+    "nome_cnpj_quiz": "SQUATRON DIGITAL",
     "lang_quiz": "br",
-    "url_redirect_email_existente": "https://www.thecredito.com.br/teste-segment/?",
+    "url_redirect_email_existente": "https://extraduda.com//?",
     "url_post_async_antes_submit": "",
     "logo_quiz": "",
     "favicon_quiz": "",
@@ -136,5 +136,5 @@
   "elapsed": "0.00031",
   "time": 1726644586,
   "http_code": 200,
-  "from": "spun"
+  "from": "s4n"
 }
