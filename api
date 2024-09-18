@@ -106,7 +106,7 @@
       "FLG_KEEP_GET_PARAMS": 1,
       "FLG_PUSH_AUTO": 1
     },
-    "scripts_append_quiz": "\u003C!-- Google tag (gtag.js) --\u003E\r\n\u003Cscript async src=\"https://www.googletagmanager.com/gtag/js?id=AW-11211823515\"\u003E\u003C/script\u003E\r\n\u003Cscript\u003E\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-11211823515');\r\n\u003C/script\u003E",
+    "scripts_append_quiz": "",
     "scripts_append_quiz_antes_redirect": "\u003C!-- Event snippet for [gc] lead conversion page --\u003E\r\n\u003Cscript\u003E\r\n  gtag('event', 'conversion', {'send_to': 'AW-11211823515/G2b_CIKxiqkYEJuzm-Ip'});\r\n\u003C/script\u003E",
     "cnpj_quiz": "42.921.663/0001-99",
     "nome_cnpj_quiz": "JN Content",
