@@ -130,7 +130,7 @@
     "textos_complementares_titulo": "",
     "textos_complementares_texto": "",
     "status_quiz": "1",
-  //  "scripts_append_push_quiz": "<script async src=\"#"></script>"
+  
   },
   "status": 1,
   "elapsed": "0.00031",
