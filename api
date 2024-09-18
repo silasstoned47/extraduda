@@ -130,7 +130,6 @@
     "textos_complementares_titulo": "",
     "textos_complementares_texto": "",
     "status_quiz": "1",
-    "scripts_append_push_quiz": "\u003Cscript async src=\"https://push.spun.com.br/push-55.js\"\u003E\u003C/script\u003E"
   },
   "status": 1,
   "elapsed": "0.00039",
