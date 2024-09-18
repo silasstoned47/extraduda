@@ -1,1 +1,140 @@
-{"data":{"cod_quiz":"92","cod_usuario":"23","company_id":"1","uuid_quiz":"94a6a694-7188-43e9-a2dc-7dab3858780b","titulo_quiz":"Leva menos de 30 segundos","subtitulo_quiz":"Descubra a melhor op\u00e7\u00e3o de acordo com o seu perfil","slug_quiz":"default","opcoes_quiz":{"1":{"titulo":"Podemos come\u00e7ar?","ac_field_id":"","opcoes":[{"titulo":"Sim, vamos l\u00e1!","pontos":1}]},"2":{"titulo":"Qual op\u00e7\u00e3o corresponde ao seu perfil?","ac_field_id":"","opcoes":[{"titulo":"Aut\u00f4nomo \/ Dono de Neg\u00f3cio","pontos":1},{"titulo":"Estudante \/ Desempregado","pontos":1},{"titulo":"CLT \/ Empregado","pontos":1},{"titulo":"Funcion\u00e1rio P\u00fablico \/ Aposentado","pontos":1}]},"3":{"titulo":"Qual sua faixa salarial?","ac_field_id":"","opcoes":[{"titulo":"At\u00e9 R$1.500,00","pontos":1},{"titulo":"Entre R$1.500,00 at\u00e9 R$3.000,00","pontos":1},{"titulo":"Entre R$3.000,00 at\u00e9 R$5.000,00","pontos":1},{"titulo":"Acima de R$5.000,00","pontos":1}]},"4":{"titulo":"Voc\u00ea tem d\u00edvidas no seu nome?","ac_field_id":"","opcoes":[{"titulo":"Sim, tenho uma d\u00edvida","pontos":1},{"titulo":"N\u00e3o tenho d\u00edvidas","pontos":1}]}},"destinos_quiz":[{"url":"https:\/\/www.genialcredito.com\/recomendado-pagbank\/?utm_source=google-ads","pontos":1}],"destinos_api_quiz":{"25":25,"23":23,"13":13,"12":12},"destinos_api_porcentagem_quiz":null,"destinos_api_validacao_email_quiz":{"67":67},"cod_api_destino_secundario_se_existente":"0","sites_quiz":{"10":10},"flgs_quiz":{"FLG_CAPTURAR_CELULAR":1,"FLG_VERIFICAR_EMAIL_APOS_DIGITAR":1,"FLG_EXIBIR_ONLINE_CIDADE":1,"FLG_DESIGN_V1":1,"FLG_PERMITIR_AUTO_COMPLETE_DOMINIO_EMAIL":1,"FLG_KEEP_GET_PARAMS":1,"FLG_PUSH_AUTO":1},"scripts_append_quiz":"<!-- Google tag (gtag.js) -->\r\n<script async src=\"https:\/\/www.googletagmanager.com\/gtag\/js?id=AW-11211823515\"><\/script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-11211823515');\r\n<\/script>","scripts_append_quiz_antes_redirect":"<!-- Event snippet for [gc] lead conversion page -->\r\n<script>\r\n  gtag('event', 'conversion', {'send_to': 'AW-11211823515\/G2b_CIKxiqkYEJuzm-Ip'});\r\n<\/script>","cnpj_quiz":"42.921.663\/0001-99","nome_cnpj_quiz":"JN Content","lang_quiz":"br","url_redirect_email_existente":"https:\/\/www.thecredito.com.br\/teste-segment\/?","url_post_async_antes_submit":"","logo_quiz":"","favicon_quiz":"","color_bg":"#e32400","color_bg_text":"#ffffff","color_bg_btn":"#e32400","color_bg_btn_text":"#ffffff","mensagem_check_confirmacao_form":"Aceito receber recomenda\u00e7\u00f5es personalizadas de cart\u00f5es por email","mensagem_validacao_push":"Voc\u00ea aceita receber recomenda\u00e7\u00f5es de cart\u00f5es?","destinos_api_quiz_utm_campaign":[],"destinos_quiz_paises":[],"destinos_quiz_porcentagens":[],"destinos_quiz_utm_campaign":[],"botoes_externos":[],"observacoes_quiz":"","textos_complementares_titulo":"","textos_complementares_texto":"","status_quiz":"1","scripts_append_push_quiz":"<script async src=\"https:\/\/push.spun.com.br\/push-55.js\"><\/script>"},"status":1,"elapsed":"0.00031","time":1726644586,"http_code":200,"from":"spun"}
+{
+  "data": {
+    "cod_quiz": "92",
+    "cod_usuario": "23",
+    "company_id": "1",
+    "uuid_quiz": "94a6a694-7188-43e9-a2dc-7dab3858780b",
+    "titulo_quiz": "Leva menos de 30 segundos",
+    "subtitulo_quiz": "Descubra a melhor opção de acordo com o seu perfil",
+    "slug_quiz": "default",
+    "opcoes_quiz": {
+      "1": {
+        "titulo": "Podemos começar?",
+        "ac_field_id": "",
+        "opcoes": [
+          {
+            "titulo": "Sim, vamos lá!",
+            "pontos": 1
+          }
+        ]
+      },
+      "2": {
+        "titulo": "Qual opção corresponde ao seu perfil?",
+        "ac_field_id": "",
+        "opcoes": [
+          {
+            "titulo": "Autônomo / Dono de Negócio",
+            "pontos": 1
+          },
+          {
+            "titulo": "Estudante / Desempregado",
+            "pontos": 1
+          },
+          {
+            "titulo": "CLT / Empregado",
+            "pontos": 1
+          },
+          {
+            "titulo": "Funcionário Público / Aposentado",
+            "pontos": 1
+          }
+        ]
+      },
+      "3": {
+        "titulo": "Qual sua faixa salarial?",
+        "ac_field_id": "",
+        "opcoes": [
+          {
+            "titulo": "Até R$1.500,00",
+            "pontos": 1
+          },
+          {
+            "titulo": "Entre R$1.500,00 até R$3.000,00",
+            "pontos": 1
+          },
+          {
+            "titulo": "Entre R$3.000,00 até R$5.000,00",
+            "pontos": 1
+          },
+          {
+            "titulo": "Acima de R$5.000,00",
+            "pontos": 1
+          }
+        ]
+      },
+      "4": {
+        "titulo": "Você tem dívidas no seu nome?",
+        "ac_field_id": "",
+        "opcoes": [
+          {
+            "titulo": "Sim, tenho uma dívida",
+            "pontos": 1
+          },
+          {
+            "titulo": "Não tenho dívidas",
+            "pontos": 1
+          }
+        ]
+      }
+    },
+    "destinos_quiz": [
+      {
+        "url": "https://www.genialcredito.com/recomendado-pagbank/?utm_source=google-ads",
+        "pontos": 1
+      }
+    ],
+    "destinos_api_quiz": {
+      "12": 12,
+      "13": 13,
+      "23": 23,
+      "25": 25
+    },
+    "destinos_api_porcentagem_quiz": null,
+    "destinos_api_validacao_email_quiz": {
+      "67": 67
+    },
+    "cod_api_destino_secundario_se_existente": "0",
+    "sites_quiz": {
+      "10": 10
+    },
+    "flgs_quiz": {
+      "FLG_CAPTURAR_CELULAR": 1,
+      "FLG_VERIFICAR_EMAIL_APOS_DIGITAR": 1,
+      "FLG_EXIBIR_ONLINE_CIDADE": 1,
+      "FLG_DESIGN_V1": 1,
+      "FLG_PERMITIR_AUTO_COMPLETE_DOMINIO_EMAIL": 1,
+      "FLG_KEEP_GET_PARAMS": 1,
+      "FLG_PUSH_AUTO": 1
+    },
+    "scripts_append_quiz": "<!-- Google tag (gtag.js) -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-11211823515\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'AW-11211823515');\r\n</script>",
+    "scripts_append_quiz_antes_redirect": "<!-- Event snippet for [gc] lead conversion page -->\r\n<script>\r\n  gtag('event', 'conversion', {'send_to': 'AW-11211823515/G2b_CIKxiqkYEJuzm-Ip'});\r\n</script>",
+    "cnpj_quiz": "42.921.663/0001-99",
+    "nome_cnpj_quiz": "JN Content",
+    "lang_quiz": "br",
+    "url_redirect_email_existente": "https://www.thecredito.com.br/teste-segment/?",
+    "url_post_async_antes_submit": "",
+    "logo_quiz": "",
+    "favicon_quiz": "",
+    "color_bg": "#e32400",
+    "color_bg_text": "#ffffff",
+    "color_bg_btn": "#e32400",
+    "color_bg_btn_text": "#ffffff",
+    "mensagem_check_confirmacao_form": "Aceito receber recomendações personalizadas de cartões por email",
+    "mensagem_validacao_push": "Você aceita receber recomendações de cartões?",
+    "destinos_api_quiz_utm_campaign": [],
+    "destinos_quiz_paises": [],
+    "destinos_quiz_porcentagens": [],
+    "destinos_quiz_utm_campaign": [],
+    "botoes_externos": [],
+    "observacoes_quiz": "",
+    "textos_complementares_titulo": "",
+    "textos_complementares_texto": "",
+    "status_quiz": "1",
+  //  "scripts_append_push_quiz": "<script async src=\"#"></script>"
+  },
+  "status": 1,
+  "elapsed": "0.00031",
+  "time": 1726644586,
+  "http_code": 200,
+  "from": "spun"
+}
